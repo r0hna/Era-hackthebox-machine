@@ -6,7 +6,7 @@ A python automation script to get initial access to the box.
 python3 ./shell.py
 ```
 
-##### Spwn bash
+##### Spawn bash
 ```
 /bin/bash -i
 ```
